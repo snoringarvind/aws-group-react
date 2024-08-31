@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Live Concert",
+    "description": "Rock and roll night with live performances.",
+    "price": "$20",
+    "location": "Hamilton",
+    "date": "2024-09-15T19:00:00.000Z"
+  },
+  {
+    "title": "Tech Meet-up",
+    "description": "Networking event for tech enthusiasts.",
+    "price": "free",
+    "location": "Auckland",
+    "date": "2024-09-05T18:30:00.000Z"
+  },
+  {
+    "title": "City Marathon",
+    "description": "Join the annual city marathon for a cause.",
+    "price": "$30",
+    "location": "Wellington",
+    "date": "2024-10-01T07:00:00.000Z"
+  },
+  {
+    "title": "Jazz Festival",
+    "description": "A week-long celebration of jazz music.",
+    "price": "$50",
+    "location": "Christchurch",
+    "date": "2024-09-20T20:00:00.000Z"
+  },
+  {
+    "title": "Startup Pitch Night",
+    "description": "Showcase your startup to investors and peers.",
+    "price": "free",
+    "location": "Hamilton",
+    "date": "2024-09-25T17:00:00.000Z"
+  },
+  {
+    "title": "Art Exhibition",
+    "description": "Explore the latest contemporary art pieces.",
+    "price": "free",
+    "location": "Dunedin",
+    "date": "2024-09-10T10:00:00.000Z"
+  },
+  {
+    "title": "Food Festival",
+    "description": "A celebration of culinary delights from around the world.",
+    "price": "$10",
+    "location": "Auckland",
+    "date": "2024-10-05T11:00:00.000Z"
+  },
+  {
+    "title": "Book Fair",
+    "description": "A paradise for book lovers with thousands of titles.",
+    "price": "$5",
+    "location": "Wellington",
+    "date": "2024-10-15T09:00:00.000Z"
+  },
+  {
+    "title": "Yoga Retreat",
+    "description": "A weekend of relaxation and rejuvenation.",
+    "price": "$100",
+    "location": "Hamilton",
+    "date": "2024-09-30T08:00:00.000Z"
+  },
+  {
+    "title": "Photography Workshop",
+    "description": "Learn the art of photography from professionals.",
+    "price": "$75",
+    "location": "Christchurch",
+    "date": "2024-09-18T10:00:00.000Z"
+  },
+  {
+    "title": "Film Screening",
+    "description": "Exclusive screening of an indie film.",
+    "price": "$15",
+    "location": "Dunedin",
+    "date": "2024-09-22T18:00:00.000Z"
+  },
+  {
+    "title": "Outdoor Adventure",
+    "description": "A day of hiking and outdoor activities.",
+    "price": "$40",
+    "location": "Queenstown",
+    "date": "2024-09-12T08:00:00.000Z"
+  },
+  {
+    "title": "Charity Run",
+    "description": "Run for a cause and help raise funds.",
+    "price": "donation",
+    "location": "Wellington",
+    "date": "2024-10-10T07:00:00.000Z"
+  },
+  {
+    "title": "Craft Fair",
+    "description": "Explore handmade crafts from local artisans.",
+    "price": "free",
+    "location": "Hamilton",
+    "date": "2024-09-17T09:00:00.000Z"
+  },
+  {
+    "title": "Dance Workshop",
+    "description": "Learn the basics of contemporary dance.",
+    "price": "$25",
+    "location": "Auckland",
+    "date": "2024-09-28T14:00:00.000Z"
+  },
+  {
+    "title": "Science Expo",
+    "description": "Discover the latest innovations in science and technology.",
+    "price": "$10",
+    "location": "Christchurch",
+    "date": "2024-10-12T09:00:00.000Z"
+  },
+  {
+    "title": "Music Jam Session",
+    "description": "Bring your instrument and join a jam session.",
+    "price": "free",
+    "location": "Hamilton",
+    "date": "2024-09-27T19:30:00.000Z"
+  },
+  {
+    "title": "Cultural Festival",
+    "description": "Experience diverse cultures through music, dance, and food.",
+    "price": "$15",
+    "location": "Auckland",
+    "date": "2024-10-02T11:00:00.000Z"
+  },
+  {
+    "title": "Historical Tour",
+    "description": "Guided tour of the city's historical landmarks.",
+    "price": "$20",
+    "location": "Wellington",
+    "date": "2024-09-23T10:00:00.000Z"
+  },
+  {
+    "title": "Startup Bootcamp",
+    "description": "Intensive weekend bootcamp for aspiring entrepreneurs.",
+    "price": "$200",
+    "location": "Hamilton",
+    "date": "2024-09-14T09:00:00.000Z"
+  },
+  {
+    "title": "Live Concert",
+    "description": "Pop and jazz performances by local artists.",
+    "price": "$25",
+    "location": "Auckland",
+    "date": "2024-09-16T19:00:00.000Z"
+  },
+  {
+    "title": "Tech Meet-up",
+    "description": "Discuss the latest trends in AI and ML.",
+    "price": "$5",
+    "location": "Wellington",
+    "date": "2024-09-06T18:00:00.000Z"
+  },
+  {
+    "title": "City Marathon",
+    "description": "A half-marathon for beginners and enthusiasts.",
+    "price": "$35",
+    "location": "Christchurch",
+    "date": "2024-10-02T07:00:00.000Z"
+  },
+  {
+    "title": "Jazz Festival",
+    "description": "International jazz artists performing live.",
+    "price": "$55",
+    "location": "Wellington",
+    "date": "2024-09-21T20:00:00.000Z"
+  },
+  {
+    "title": "Startup Pitch Night",
+    "description": "Present your startup to a panel of investors.",
+    "price": "$10",
+    "location": "Auckland",
+    "date": "2024-09-26T17:30:00.000Z"
+  },
+  {
+    "title": "Art Exhibition",
+    "description": "A showcase of modern art by emerging artists.",
+    "price": "$15",
+    "location": "Wellington",
+    "date": "2024-09-11T10:00:00.000Z"
+  },
+  {
+    "title": "Food Festival",
+    "description": "Taste the best street food from around the country.",
+    "price": "$15",
+    "location": "Christchurch",
+    "date": "2024-10-06T11:30:00.000Z"
+  },
+  {
+    "title": "Book Fair",
+    "description": "Rare and antique books on display and for sale.",
+    "price": "$8",
+    "location": "Auckland",
+    "date": "2024-10-16T09:30:00.000Z"
+  },
+  {
+    "title": "Yoga Retreat",
+    "description": "Advanced yoga techniques for experienced practitioners.",
+    "price": "$120",
+    "location": "Wellington",
+    "date": "2024-10-01T08:30:00.000Z"
+  },
+  {
+    "title": "Photography Workshop",
+    "description": "Explore landscape photography with expert guidance.",
+    "price": "$85",
+    "location": "Dunedin",
+    "date": "2024-09-19T10:30:00.000Z"
+  },
+  {
+    "title": "Film Screening",
+    "description": "A selection of short films by local filmmakers.",
+    "price": "$18",
+    "location": "Hamilton",
+    "date": "2024-09-23T18:30:00.000Z"
+  },
+  {
+    "title": "Outdoor Adventure",
+    "description": "Mountain biking and kayaking in the great outdoors.",
+    "price": "$50",
+    "location": "Queenstown",
+    "date": "2024-09-13T08:30:00.000Z"
+  },
+  {
+    "title": "Charity Run",
+    "description": "5K fun run to raise funds for local charities.",
+    "price": "free",
+    "location": "Auckland",
+    "date": "2024-10-11T07:30:00.000Z"
+  },
+  {
+    "title": "Craft Fair",
+    "description": "Handmade jewelry and crafts from local artisans.",
+    "price": "$2",
+    "location": "Wellington",
+    "date": "2024-09-18T09:30:00.000Z"
+  },
+  {
+    "title": "Dance Workshop",
+    "description": "Learn traditional and modern dance styles.",
+    "price": "$30",
+    "location": "Wellington",
+    "date": "2024-09-29T14:30:00.000Z"
+  },
+  {
+    "title": "Science Expo",
+    "description": "Interactive science experiments for all ages.",
+    "price": "$12",
+    "location": "Hamilton",
+    "date": "2024-10-13T09:30:00.000Z"
+  },
+  {
+    "title": "Music Jam Session",
+    "description": "Open mic night for musicians of all genres.",
+    "price": "$5",
+    "location": "Auckland",
+    "date": "2024-09-28T19:30:00.000Z"
+  },
+  {
+    "title": "Cultural Festival",
+    "description": "A day of cultural performances and food stalls.",
+    "price": "$20",
+    "location": "Hamilton",
+    "date": "2024-10-03T11:30:00.000Z"
+  },
+  {
+    "title": "Historical Tour",
+    "description": "Explore the hidden history of the city with a guide.",
+    "price": "$25",
+    "location": "Christchurch",
+    "date": "2024-09-24T10:30:00.000Z"
+  },
+  {
+    "title": "Startup Bootcamp",
+    "description": "Intensive mentoring and networking for startup founders.",
+    "price": "$250",
+    "location": "Auckland",
+    "date": "2024-09-15T09:30:00.000Z"
+  }
+]

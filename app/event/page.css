@@ -1,0 +1,19 @@
+.cardContainer {
+  border: 1px solid;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.mainContainer {
+  border: 1px solid;
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+
+.filterContainer {
+  border: 1px solid;
+}
+
+.cardContainer {
+}
